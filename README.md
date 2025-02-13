@@ -1,6 +1,11 @@
 # Sales Data Analysis Project - AdventureWorks
  
 This Power BI project analyzes AdventureWorks sales data to provide insights into key performance indicators such as total orders, returns, and profit. The report also incorporates geocoding to visualize order distribution on a map.
+
+**Dashboard Link** - https://app.powerbi.com/groups/me/reports/3f0cc831-8249-4d57-a331-d7b9eb02dc0e?pbi_source=desktop
+
+
+
  
 ## Overview
  
