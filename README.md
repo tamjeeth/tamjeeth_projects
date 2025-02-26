@@ -36,12 +36,19 @@ The report is organized into several pages, each focusing on different aspects o
     *   **Product Performance Table:**  A table listing individual products with their total orders, revenue, and return rates.  This table is likely sortable by column.
     *   **Monthly Performance Indicators:** Shows monthly revenue, orders, and returns, with goal comparisons.
     *   **Most/Least Popular Products:** Highlights the most ordered and most returned product types.
-![image](https://github.com/user-attachments/assets/8a66459c-34c5-46e5-9116-09b971303240)
+
+
+        ![image](https://github.com/user-attachments/assets/a2bcd0c5-6a49-43c1-b481-a83fe6a3d374)
+
 
  
 *   **Map:**  Visualizes the geographic distribution of sales orders.
     *   **Interactive Map:** Displays order locations on a world map.  The size of the circles likely represents the volume of sales in that area.
     *   **Continent/Country Filters:**  Allows users to filter the map to focus on specific continents (Europe, North America, Pacific) or countries (e.g., Canada, United Kingdom, USA).
+
+        ![image](https://github.com/user-attachments/assets/5d84c51b-dba0-4c3d-bbb4-21c04f0b211b)
+
+
  
 *   **Product Detail:** Provides detailed insights into the performance of individual products.
     *   **Selected Product:**  Displays the currently selected product (e.g., "Road Tire Tube" in the screenshot).  Users can likely select different products to view their details.
@@ -52,6 +59,10 @@ The report is organized into several pages, each focusing on different aspects o
     *   **Return Trends:** A chart showing the trend of returns for the selected product.
     *   **Price Adjustment:**  A control (likely a slider) to adjust the price of the selected product, probably to simulate the impact of price changes on profit.
     *   **Key Performance Indicators:** Displays key metrics for the selected product, such as the total number of orders, revenue, and profit.
+
+
+         ![image](https://github.com/user-attachments/assets/87424caf-375e-4ef0-8973-df9f37f4ab0d)
+
  
 *   **Customer Detail:**  Provides insights into customer demographics and purchasing behavior.
     *   **Total Customers:**  Displays the total number of customers.
@@ -61,10 +72,13 @@ The report is organized into several pages, each focusing on different aspects o
     *   **Total Orders by Occupation:**  Shows the distribution of orders across different occupations.
     *   **Top 100 Customers Based on Orders:**  Lists the top 100 customers by order count.
     *   **Top Customer (By Revenue):**  Highlights the customer with the highest revenue.
+
+         ![image](https://github.com/user-attachments/assets/4e7399fe-d7d4-4cf2-a479-be19f1db48a0)
+
   
 ## Limitations
  
-This report is based on a sample dataset and may not reflect real-world sales patterns.  
+This report is based on a sample dataset and may not reflect real-world sales patterns. Also, You may require a Power BI Servive Account (Organisation or School) to view the report.
  
 ## Contact
  
