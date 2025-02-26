@@ -36,6 +36,8 @@ The report is organized into several pages, each focusing on different aspects o
     *   **Product Performance Table:**  A table listing individual products with their total orders, revenue, and return rates.  This table is likely sortable by column.
     *   **Monthly Performance Indicators:** Shows monthly revenue, orders, and returns, with goal comparisons.
     *   **Most/Least Popular Products:** Highlights the most ordered and most returned product types.
+![image](https://github.com/user-attachments/assets/8a66459c-34c5-46e5-9116-09b971303240)
+
  
 *   **Map:**  Visualizes the geographic distribution of sales orders.
     *   **Interactive Map:** Displays order locations on a world map.  The size of the circles likely represents the volume of sales in that area.
